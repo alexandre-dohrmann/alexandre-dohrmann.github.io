@@ -1,0 +1,124 @@
+* {
+	margin: 0 auto;
+}
+
+.catStill {
+	display: inline-block;
+	margin: 10px auto 0;
+	padding-top: 100px;
+	margin-left: 200px;
+	position: relative;
+}
+
+section {
+	background-image: url(../images/forrest.png);
+	background-repeat: no-repeat;
+    background-position: center; 	
+    background-size: cover;
+    padding: 10px;
+}
+
+form {
+	text-align: center;
+	padding: 20px;
+}
+
+.meter {
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+	text-shadow:  0 0 0.2em #8F7;
+    text-transform: uppercase;
+
+}
+
+.emptyFormDiv {
+	font-family: 'Abel', sans-serif;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 30px;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+	text-transform: uppercase;
+}
+
+#input-box {
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+	margin-right: 5px;
+	width: 200px;
+
+}
+
+#nameButton {
+	font-family: 'Abel', sans-serif;
+	background-color: white;
+	font-size: 20px;
+	margin-bottom: 0px;
+	border-radius: 20px;
+}
+
+.name {
+	font-family: 'Abel', sans-serif;
+	font-size: 30px;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+}
+
+.emoji {
+	display: inline-block;
+	margin: 0 50px	;
+}
+
+.changeStatDivs {
+	padding: 10px;
+	text-align: center;
+	display: block;
+}
+
+button.feed, .sleep, .pet, .play, #startButton, .refresh {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+	background-color: rgb(255,255,0);
+	border-radius: 20px;
+	border: 2px solid;
+	margin-top: 10px;
+}
+
+i {
+	font-size: 20px;
+}
+
+.liveStats {
+	background-image: url(../images/life2.gif);
+	background-repeat: no-repeat;
+    background-position: center;
+    background-size:100% 100%;
+    border-radius: 20px;
+    padding: 15px;
+    margin-left: 15px;
+}
+
+.col-3 {
+	border-radius: 20px;
+	border: 5px solid black;
+	display: inline-block;
+}
+
+.aged, .hungry, .sleepy, .bored, .feisty {
+	font-family: 'Abel', sans-serif;
+	text-shadow: 0 0 0.2em #F87, 0 0 0.2em #F87;
+	font-weight: bold;
+	font-size: 30px;
+
+}
+
+
+.row {
+	margin: auto;
+
+}
+
+.dead {
+
+}
