@@ -60,7 +60,7 @@ $('body').on('click', '#startButton', function(){
 	$('#startButton').remove();
 	$('form').empty();
 	$('.catStill').attr('src', 'images/cat2.gif');
-	$('.liveStats').css("background-image", "url(images/life2.gif)");
+	$('.liveStats').css("background-image", "url(images/life.gif)");
 			setTimeout( 
 			function moveRight() {
 				$(".catStill").css({
