@@ -230,6 +230,10 @@
      header.header-area {
          z-index: 999;
     }
+    .logo {
+        padding-left: 60px;
+        padding-top: 25px;
+    }
      .navbar-dark .navbar-toggler {
          border-color: rgba(255, 255, 255, .8);
          padding: 2px 7px;
@@ -237,7 +241,6 @@
     }
     .navbar-toggler {
         margin-right: 300px !important;
-
     }
      .navbar-toggler:focus, .navbar-toggler:hover {
          text-decoration: none;
