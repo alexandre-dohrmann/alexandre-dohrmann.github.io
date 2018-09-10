@@ -672,6 +672,9 @@
 .bpost-02{
      background-image:url('images/news-image-02.jpg');
 }
+.bpost-03{
+     background-image:url('images/news-image-03.jpg');
+}
  .news-featured-image img{
      display:none;
 }
