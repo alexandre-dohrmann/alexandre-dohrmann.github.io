@@ -675,6 +675,9 @@
 .bpost-03{
      background-image:url('images/news-image-03.jpg');
 }
+.bpost-04{
+    background-image:url('images/news-image-04.jpg');
+}
  .news-featured-image img{
      display:none;
 }
