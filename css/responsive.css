@@ -268,7 +268,7 @@
     }
     /*banner area*/
     .banner-area {
-        
+        background-position-x: -170px !important;
     }
      .welcome-text {
          min-height: 320px;
