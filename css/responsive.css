@@ -9,6 +9,9 @@
 }
 /* Medium Layout: 992px. */
  @media only screen and (max-width: 1200px) {
+    .banner-area {
+        background-position-x: -170px !important;
+    }
      .section-padding {
          padding: 90px 0;
     }
