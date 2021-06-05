@@ -1,0 +1,21 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Alexandre Dohrmann <adohrmann@ip-192-168-4-24.ec2.internal>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   ../.DS_Store
+#	modified:   .DS_Store
+#	modified:   Main File/.DS_Store
+#	modified:   Main File/style.css
+#	modified:   ../images/.DS_Store
+#
+# Untracked files:
+#	Main File/images/banner-bg2.png
+#	../images/banner-bg-2-01.png
+#changes to banner
+
